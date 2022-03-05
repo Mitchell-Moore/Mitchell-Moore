@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mitchell-Moore
+- 🧑‍💻 I work as a Full Stack Developer at a Health Care Start-up
+- 👀 I’m interested in Start-ups, increasing my skills as a software engineer, and finding interesting chanllenges to solve
+- 🌱 I’m currently learning Next.js, Graphql, and brushing up on react.js
+- 📫 How to reach me <a href='https://www.linkedin.com/in/mitchell-l-moore/'>Linkedin</a>
