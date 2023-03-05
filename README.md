@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mitchell-Moore
 - 🧑‍💻 I work as a Full Stack Developer at a Health Care Start-up
 - 👀 I’m interested in Start-ups, and improving my skills as a software engineer
-- 🌱 I’m currently learning Next.js, Graphql, and Typescript
+- 🌱 I’m currently learning Typescript
 - 📫 How to reach me <a href='https://www.linkedin.com/in/mitchell-l-moore/'>Linkedin</a>
